@@ -10,7 +10,7 @@ const Header = () => {
             <h3 className="font-bold text-sky-500 mb-8">Software Developer</h3>
             <div>
                 <a className="btn btn-ghost border border-sky-500 text-sky-500 py-3 px-5 font-semibold mr-2" download href={resume}>Download Resume</a>
-                <a className="btn btn-ghost border border-sky-500 py-3 px-5 bg-sky-500 font-semibold ml-2 text-white" href="#contact">Lets Talk</a>
+                <a className="btn btn-ghost border border-sky-500 py-3 px-5 bg-sky-500 font-semibold ml-2 text-white" href="https://www.linkedin.com/in/samiul-hasan-mim">Follow Me</a>
             </div>
         </div>
     );
