@@ -27,7 +27,7 @@ const Projects = () => {
                             <p className='font-bold'>Technology:</p>
                             <div className='flex items-center text-xl gap-2'><FaReact className='text-blue-500' />
                             <RiTailwindCssFill className='text-blue-900' /> <SiExpress /> <FaNodeJs className='text-green-500' /> <RiFirebaseLine className='text-yellow-500' /> <SiMongodb className='text-green-500' /></div>
-                            <div className="card-actions justify-end">
+                            <div className="card-actions justify-end mt-3">
                                 <div className="badge badge-outline"><a href="https://github.com/SamiulHasan-dev/contest-creation-platform">GitHub</a></div>
                                 <div className="badge badge-outline"><a href="https://contest-lab-f764b.web.app">Live Link</a></div>
                             </div>
@@ -51,7 +51,7 @@ const Projects = () => {
                             <p>Art & Craft StoreArt & Craft Store Crafters Cove is an platform where art and craft enthusiasts can showcase their creativity.</p>
                             <p className='font-bold'>Technology:</p>
                             <div className='flex items-center text-xl gap-2'><FaReact className='text-blue-500' /> <SiExpress /> <FaNodeJs className='text-green-500' /> <RiFirebaseLine className='text-yellow-500' /> <SiMongodb className='text-green-500' /></div>
-                            <div className="card-actions justify-end">
+                            <div className="card-actions justify-end mt-3">
                                 <div className="badge badge-outline"><a href="https://github.com/SamiulHasan-dev/art-and-craft-store">GitHub</a></div>
                                 <div className="badge badge-outline"><a href="https://crafters-cove-e39bb.web.app">Live Link</a></div>
                             </div>
@@ -74,7 +74,7 @@ const Projects = () => {
                             <p>An Alternative Product Information System designed to revolutionize how users discover and evaluate products. </p>
                             <p className='font-bold'>Technology:</p>
                             <div className='flex items-center text-xl gap-2'><FaReact className='text-blue-500' /> <SiExpress /> <RiTailwindCssFill className='text-blue-900' /> <FaNodeJs className='text-green-500' /> <RiFirebaseLine className='text-yellow-500' /> <SiMongodb className='text-green-500' /></div>
-                            <div className="card-actions justify-end">
+                            <div className="card-actions justify-end mt-3">
                                 <div className="badge badge-outline"><a href="https://github.com/SamiulHasan-dev/Alternative-Product-Information-System">GitHub</a></div>
                                 <div className="badge badge-outline"><a href="https://product-verse.web.app">Live Link</a></div>
                             </div>
