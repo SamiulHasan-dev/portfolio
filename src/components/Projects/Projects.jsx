@@ -71,7 +71,7 @@ const Projects = () => {
                             <h2 className="card-title">
                                 Product Verse
                             </h2>
-                            <p>An Alternative Product Information System designed to revolutionize how users discover and evaluate alternative products expect other. </p>
+                            <p>An Alternative Product Information System designed to revolutionize how users discover and evaluate products. </p>
                             <p className='font-bold'>Technology:</p>
                             <div className='flex items-center text-xl gap-2'><FaReact className='text-blue-500' /> <SiExpress /> <RiTailwindCssFill className='text-blue-900' /> <FaNodeJs className='text-green-500' /> <RiFirebaseLine className='text-yellow-500' /> <SiMongodb className='text-green-500' /></div>
                             <div className="card-actions justify-end">
