@@ -7,7 +7,7 @@ const Contact = () => {
         <div className="max-w-5xl mx-auto my-16">
             <p className='text-center font-bold mb-3 mt-10'>Get In Touch
             I do receive your messages and will respond asap if <br /> the valid email is provided :)</p>
-            <h2 className="text-center text-3xl font-bold mb-8 text-sky-500">Contact</h2>
+            <h2 className="text-center text-3xl font-bold mb-8 text-sky-500">Contact Me</h2>
             <div className="flex w-full flex-col justify-around lg:flex-row">
                 <div className="card grid">
                     <div className="mx-5 md:mx-0">
