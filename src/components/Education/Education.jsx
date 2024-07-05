@@ -5,8 +5,8 @@ import { FaUserGraduate } from "react-icons/fa";
 const Education = () => {
     return (
         <div className="max-w-5xl mx-auto my-16">
-            <p className='text-center font-bold mb-3'>My Qualification</p>
-             <h2 className="text-3xl text-center font-bold text-sky-500 mb-8">Education</h2>
+            <p className='text-center font-bold mb-3'>My education</p>
+             <h2 className="text-3xl text-center font-bold text-sky-500 mb-8">Qualification</h2>
             <div className="hero">
                 <div className="hero-content flex-row">
                     <div className="divider divider-horizontal"></div>
