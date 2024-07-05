@@ -5,7 +5,7 @@ const About = () => {
         <div className="mt-14 max-w-5xl mx-auto">
             <p className='text-center font-bold mb-3'>Get to know</p>
             <h2 className="text-center text-3xl font-bold mb-8 text-sky-500">About Me</h2>
-            <div>
+            <div className='mx-3 md:mx-0'>
                 <div className="hero">
                     <div className="hero-content flex-col gap-14 lg:flex-row">
                         <img

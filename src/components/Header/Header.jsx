@@ -16,7 +16,7 @@ const Header = () => {
                 words={['Software Developer']}
                 loop={100}
                 cursor
-                cursorStyle=''
+                cursorStyle='|'
                 typeSpeed={70}
                 deleteSpeed={50}
                 delaySpeed={1000}
