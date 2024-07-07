@@ -13,7 +13,7 @@ const Header = () => {
             </div>
             <p className='font-bold text-sky-500 mb-8'>
             <Typewriter
-                words={['Software Developer']}
+                words={['Software Developer', 'Web App Developer']}
                 loop={100}
                 cursor
                 cursorStyle='|'
@@ -30,7 +30,7 @@ const Header = () => {
                 <a className="btn btn-ghost border border-sky-500 py-3 px-5 bg-sky-500 font-semibold ml-2 text-white" href="https://www.linkedin.com/in/samiul-hasan-mim">Follow Me <FaLinkedin /></a>
             </div>
             <div className='flex gap-6 pt-10 items-center'>
-                <a href="https://www.facebook.com/samiul.hasan.735"><SiFacebook className='text-sky-500 text-2xl' /></a>
+                <a href="https://www.facebook.com/samiul.hasan.735"><SiFacebook className='text-[#0866ff] rounded-full  text-2xl bg-white' /></a>
                 <a href="https://github.com/SamiulHasan-dev"><IoLogoGithub className="text-white text-2xl" /></a>
                 <a href="https://x.com/samiul_1998"><FaTwitter className='text-sky-600 text-2xl mt-1' /></a>
             </div>
