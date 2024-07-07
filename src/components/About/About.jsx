@@ -13,9 +13,7 @@ const About = () => {
                             className="w-[500px] h-[300px] rounded-lg shadow-2xl" />
                         <div>
                             <p className="py-6">
-                                I earned my degree in computer science and engineering from East West University. I put a lot of effort into my
-                                studies, consider things thoroughly, and get along well with individuals. I enjoy the challenging tasks that
-                                require solving problems and developing new skills. I Have experienced Front End Developer with hands-on experience in identifying web-based user interactions along with designing and implementing highly-responsive user interface components by deploying React concepts. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via JavaScript and React JS workflows. Adept at monitoring and maintaining frontend performance and troubleshooting and debugging the same to bolster overall performance.
+                            I graduated with a degree in Computer Science and Engineering from East West University, majoring in Intelligent Systems and Data Science with a minor in Software Engineering. As a Full Stack Web Developer, I am proficient in React, Node.js, Express.js, and MongoDB. My technical expertise includes front-end and back-end development, creating dynamic and responsive web applications, and utilizing modern frameworks and libraries. I am meticulous, detail-oriented, and excel at solving complex problems, making me a valuable asset in cross-functional teams. I am enthusiastic about contributing to innovative projects and continuously expanding my skill set. My dedication to staying current with industry trends ensures that I am always prepared to implement the latest advancements in technology.
                             </p>
                         </div>
                     </div>
